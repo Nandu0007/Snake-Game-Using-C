@@ -221,10 +221,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Your Name** - your.email@example.com
-
-Project Link: [https://github.com/yourusername/SnakeGame-C](https://github.com/yourusername/SnakeGame-C)
-
+**Nandish P** - nandishreddy00700@gmail.com
+Project Link: https://github.com/Nandu0007/Snake-Game-Using-C.git
 ---
 
 ⭐ **Star this repository if you found it helpful!** ⭐
